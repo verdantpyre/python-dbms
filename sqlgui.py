@@ -12,7 +12,6 @@ from tkinter.font import families
 # pip install openpyxl
 import pandas as pd
 import numpy
-import time
 import sqlite3 as sql
 
 
